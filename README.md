@@ -1,9 +1,2 @@
 # tuto_git
-Tutoriel pour que je Geek sur GIT!
-
-
-dieu
-
-coco
-
-VALIDE
+https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Les-branches-en-bref
