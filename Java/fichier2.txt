@@ -4,8 +4,10 @@ df = DataFrame({"name" : "Antoine" , "Activité" : "Planche"})
 
 display(df)
 
+# Liste3 à complèter
+
 list3 = [df]
 
 for i in range(0,10):
-	if  df2:	
+	if  df2==True:	
 		list3.append(df2)
