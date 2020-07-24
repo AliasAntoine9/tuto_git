@@ -4,8 +4,8 @@ df = DataFrame({"nom" : "Antoine" , "Activité" : "Planche"})
 
 display(df)
 
-
+dddddddddddddddddd
 
 for i in range(0,10):
-	if  df2==True:	
+
 		list3.append(df2)
