@@ -1,12 +1,10 @@
 import pandas as pd
 
-df = DataFrame({"name" : "Antoine" , "Activité" : "Planche"})
+df = DataFrame({"nom" : "Antoine" , "Activité" : "Planche"})
 
 display(df)
 
-# Liste3 à complèter
 
-list3 = [df]
 
 for i in range(0,10):
 	if  df2==True:	
