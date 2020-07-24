@@ -1,0 +1,11 @@
+import pandas as pd
+
+df = DataFrame({"name" : "Antoine" , "Activité" : "Planche"})
+
+display(df)
+
+list3 = [df]
+
+for i in range(0,10):
+	if  df2:	
+		list3.append(df2)
