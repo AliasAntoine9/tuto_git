@@ -6,5 +6,5 @@ public class Main {
   }
 }
 
-print('Hello world façon easy')
+print('lol')
 
